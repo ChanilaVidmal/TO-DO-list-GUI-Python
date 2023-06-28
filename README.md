@@ -44,7 +44,7 @@ This is a simple to-do list application built using Python and Tkinter GUI libra
 5. To exit the application, click the close button or use the keyboard shortcut.
 
 ## License
-This project is licensed under the **MIT License**. Please see the [LICENSE]() file for more details.
+This project is licensed under the **MIT License**. Please see the [LICENSE](https://github.com/ChanilaVidmal/TO-Do-list-GUI-Python/blob/main/LICENSE.md) file for more details.
 
 ## Acknowledgments
 
